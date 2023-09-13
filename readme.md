@@ -1,6 +1,6 @@
 # DupTree & PrefixTree
 
-The implementation of *DupTree* and *PrefixTree* from [The Locality of Memory Checking](https://eprint.iacr.org/2023/xxx).
+The implementation of *DupTree* and *PrefixTree* from [The Locality of Memory Checking](https://eprint.iacr.org/2023/1358).
 
 This repo depends on:
 - [OpenSSL](https://github.com/openssl/openssl) for hash functions.
