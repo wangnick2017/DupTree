@@ -21,7 +21,7 @@ This repo depends on:
    ```
 - Evaluate *PrefixTree* (Section 5.2)
     - Preparations
-        - Download workloads from [link](http://baozi.systems.cs.cornell.edu/blocks/).
+        - Download workloads from [link](https://drive.google.com/drive/folders/1Q3ItZPFEZZAM-1wAnjsDdZy15UfbF8ir?usp=sharing).
         - Download a cloned and modifiled [repository](https://github.com/yujie6/go-ethereum) of [go-ethereum](https://github.com/ethereum/go-ethereum) to generate database opeartions from the above real-world workload. Put files of operations ```eth00.txt, eth01.txt, eth02.txt, eth03.txt``` in the same directory of ```duptree```.
     - Run
         ```bash
